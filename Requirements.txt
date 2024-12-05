@@ -1,0 +1,48 @@
+Last login: Thu Dec  5 10:40:26 on ttys000
+/dev/fd/12:18: command not found: compdef
+(base) nidhi@Nidhis-MacBook-Pro ~ % nano
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                       New Buffer                       Modified  
+
+Flask==2.1.1
+pandas==1.4.2
+scikit-learn==1.0.2
+numpy==1.22.3
+matplotlib==3.5.1
+seaborn==0.11.2
+werkzeug==2.1.1
+scipy==1.8.0
+joblib==1.1.0
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
